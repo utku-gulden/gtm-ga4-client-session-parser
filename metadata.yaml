@@ -1,0 +1,5 @@
+homepage: "https://www.linkedin.com/in/utku-gulden/"
+documentation: "https://developers.google.com/tag-platform/tag-manager/templates/api"
+versions:
+  - sha: 5e503f0332d04135e6c89df4a94bb19815cd6c75
+    changeNotes: Initial release.
