@@ -159,8 +159,8 @@
       result of this License or out of the use or inability to use the
       Work (including but not limited to damages for loss of goodwill,
       work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses),
-      even if such Contributor has been advised of the possibility of such damages.
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
 
    9. Accepting Warranty or Additional Liability. While redistributing
       the Work or Derivative Works thereof, You may choose to offer,
@@ -186,7 +186,11 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
+<<<<<<< HEAD
    Copyright 2025 Utku Gulden
+=======
+   Copyright 2025 Utku Gülden
+>>>>>>> 2b68855a1c5606a1eabd7d229dab69381698034b
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
