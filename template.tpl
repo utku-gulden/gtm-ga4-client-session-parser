@@ -12,7 +12,8 @@
   ],
   "containerContexts": [
     "WEB"
-  ]
+  ],
+  "galleryReady": true
 }
 
 
